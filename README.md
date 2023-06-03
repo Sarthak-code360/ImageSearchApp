@@ -6,6 +6,7 @@
 ## Using of Search button
 <img width="960" alt="image" src="https://github.com/Sarthak-code360/ImageSearchApp/assets/74900672/096976e4-1da1-403c-8b83-d2207642b0bd">
 
+## Changing the search title
 <img width="960" alt="image" src="https://github.com/Sarthak-code360/ImageSearchApp/assets/74900672/e7cf9430-c350-428a-ae5d-56af47962834">
 
 
